@@ -1,39 +1,61 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Zubair Zahidi — Developer at Zoderise. Local AI, interactive learning, and web engineering." />
+  <img src="assets/profile-banner.svg" width="100%" alt="Zubair Zahidi — Cybersecurity, ethical hacking, Linux, and web engineering." />
 </div>
 
-I build applications that make information easier to explore, understand, and use. My work at **Zoderise** spans local AI workspaces, interactive visualizations, learning tools, and full-stack web projects.
+I'm **Zubair Zahidi**, a software builder at **Zoderise**, developing my skills in cybersecurity and ethical hacking. My focus is understanding how systems work, finding weaknesses in authorized labs, and building useful tools to review and improve them.
 
-My recent focus is turning prototypes into usable applications: clear interfaces, practical documentation, Windows distribution, and workflows people can follow.
+I also build local AI applications, interactive visualizations, and web interfaces. This profile brings those projects together with a practical security learning path.
 
-### Featured work
+### Cybersecurity direction
 
-| Zoderise Horizon | Zoderise 3D Map |
+- **Defensive security:** file integrity, configuration review, evidence, and remediation.
+- **Ethical hacking:** scoped practice in owned systems and training labs, with clear findings and retests.
+- **Linux:** shell workflows, permissions, processes, services, and logs.
+- **Web security:** HTTP behavior, application boundaries, authentication, and access-control concepts.
+
+### Security projects
+
+| Zoderise Security Lab | Cybersecurity Learning Platform |
 | :--- | :--- |
-| [![Zoderise Horizon preview](https://raw.githubusercontent.com/Zubair-zahidi/zoderise-horizon/main/assets/customization-preview.png)](https://github.com/Zubair-zahidi/zoderise-horizon) | [![Zoderise 3D Map banner](https://raw.githubusercontent.com/Zubair-zahidi/zoderise-3d-map/main/docs/images/banner.svg)](https://github.com/Zubair-zahidi/zoderise-3d-map) |
-| A local AI workspace with uploaded-document research, study tools, personal appearance settings, and a shared laptop Hub. | An interactive 3D Earth application with public data sources, visual styles, and Windows distribution. |
-| **Python · Streamlit · Ollama** | **JavaScript · Cesium · Electron** |
-| [Explore the source](https://github.com/Zubair-zahidi/zoderise-horizon) · [Windows release](https://github.com/Zubair-zahidi/zoderise-horizon/releases/latest) | [Explore the source](https://github.com/Zubair-zahidi/zoderise-3d-map) · [Windows release](https://github.com/Zubair-zahidi/zoderise-3d-map/releases/latest) |
+| [![Defensive security lab banner](https://raw.githubusercontent.com/Zubair-zahidi/zoderise-security-lab/main/assets/security-banner.svg)](https://github.com/Zubair-zahidi/zoderise-security-lab) | [![Cybersecurity learning interface](https://raw.githubusercontent.com/Zubair-zahidi/zoderise-cybersecurity-learning-platform/main/images/img1.png)](https://github.com/Zubair-zahidi/zoderise-cybersecurity-learning-platform) |
+| Python utilities for file-integrity baselines, local HTTP-header review, and POSIX permission checks, with guided exercises and report templates. | A React and Node.js education project exploring learning modules, practice tools, and an administration interface. |
+| **[Source and lab guides](https://github.com/Zubair-zahidi/zoderise-security-lab)** | **[Source and screenshots](https://github.com/Zubair-zahidi/zoderise-cybersecurity-learning-platform)** |
 
-### More projects
+### Ethical hacking and analysis toolkit
 
-- **[STARZ NEXUS](https://github.com/Zubair-zahidi/starz-chatbot-ui)** — A conversational application prototype with a TypeScript frontend and Node.js backend.
-- **[Cybersecurity Learning Platform](https://github.com/Zubair-zahidi/zoderise-cybersecurity-learning-platform)** — A React and Node.js project exploring learning modules, practice tools, and an administration interface.
-- **[Cosmic Books](https://github.com/Zubair-zahidi/BookStore-backend-frontend)** — A full-stack bookstore project with a visual catalog, account workflows, and a shopping cart interface.
-- **[Portfolio iterations](https://github.com/Zubair-zahidi/zubair-zahidi-portfolio)** — Five versions documenting the evolution of my personal web design.
+These are tools and areas in my learning path, not a claim of certification or professional mastery.
 
-### How I work
+| Area | Toolkit | Practice focus |
+| --- | --- | --- |
+| Network discovery | [Nmap](https://nmap.org/book/) | Inventory and understand an authorized lab network. |
+| Traffic analysis | [Wireshark](https://www.wireshark.org/docs/) | Explain protocols and inspect your own lab traffic. |
+| Web testing | Burp Suite / [PortSwigger Academy](https://portswigger.net/web-security), [OWASP ZAP](https://www.zaproxy.org/docs/) | Analyze requests and document findings in training labs. |
+| Linux and automation | Linux, Bash, Python, Git | Review local configuration and build repeatable workflows. |
+| Reporting | Evidence, remediation, and retesting | Explain what was observed and what remains uncertain. |
 
-**Languages:** Python, TypeScript, JavaScript, HTML, and CSS.  
-**Application tools:** Streamlit, React, Node.js, Express, and Ollama.  
-**Interests:** local AI, document workflows, interactive learning, 3D interfaces, and defensive security education.
+### Application projects
 
-I aim to explain what a project does, how to run it, and where its limitations matter. AI-generated answers need human review; a polished interface is only one part of a reliable application.
+- **[Zoderise Horizon](https://github.com/Zubair-zahidi/zoderise-horizon)** — A local AI workspace with document research, study tools, per-device appearance, and a shared laptop Hub. **Python · Streamlit · Ollama**.
+- **[Zoderise 3D Map](https://github.com/Zubair-zahidi/zoderise-3d-map)** — Interactive 3D Earth, public data sources, visual styles, and Windows distribution. **JavaScript · Cesium · Electron**.
+- **[STARZ NEXUS](https://github.com/Zubair-zahidi/starz-chatbot-ui)** — A conversational application prototype. **React · TypeScript · Node.js**.
+- **[Cosmic Books](https://github.com/Zubair-zahidi/BookStore-backend-frontend)** — A full-stack bookstore project with a visual catalog and cart interface. **React · Express · MongoDB**.
+- **[Portfolio iterations](https://github.com/Zubair-zahidi/zubair-zahidi-portfolio)** — Five versions documenting the evolution of my personal web design. **HTML · CSS · JavaScript**.
 
-### Explore and connect
+<details>
+<summary><strong>See the Zoderise Horizon animated preview</strong></summary>
 
-Start with the featured repositories for screenshots, setup guides, and releases. For a project question or a reproducible bug, open an issue in the relevant repository.
+![Zoderise Horizon preview](https://raw.githubusercontent.com/Zubair-zahidi/zoderise-horizon/main/docs/media/zoderise-demo.gif)
+
+[Explore the source](https://github.com/Zubair-zahidi/zoderise-horizon) · [Windows release](https://github.com/Zubair-zahidi/zoderise-horizon/releases/latest)
+
+</details>
+
+### What I'm working toward
+
+Stronger networking and Linux fundamentals, better understanding of web application security, and small tools with tests and clear limits. I aim to turn each lab into a reproducible report that explains the observation, its impact, a proposed fix, and a retest.
+
+For a project question or reproducible bug, open an issue in the relevant repository. My security work belongs in authorized environments; AI outputs and automated checks require human review.
 
 ---
 
-<div align="center"><strong>Zubair Zahidi · Zoderise</strong><br />Building useful tools through code, design, and iteration.</div>
+<div align="center"><strong>Zubair Zahidi · Zoderise</strong><br />Learn the system. Build the tool. Explain the finding.</div>
