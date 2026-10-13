@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Zubair Zahidi — Cybersecurity and software development</title>
-  <desc id="desc">Cybersecurity, ethical hacking, Linux, and web engineering.</desc>
+  <title id="title">Zubair Zahidi — Student developer at Zoderise</title>
+  <desc id="desc">AI, productivity software, web apps, and cybersecurity.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1324"/><stop offset="1" stop-color="#172b3c"/></linearGradient>
     <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#f2d59a"/><stop offset="1" stop-color="#b58b47"/></linearGradient>
@@ -15,5 +15,5 @@
   <rect x="62" y="62" width="48" height="4" rx="2" fill="#e6c282"/>
   <text x="62" y="103" fill="#e6c282" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="4">BUILDER · ZODERISE</text>
   <text x="58" y="169" fill="#f4f0e6" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Zubair Zahidi</text>
-  <text x="62" y="213" fill="#b5cbd5" font-family="Segoe UI,Arial,sans-serif" font-size="21">Cybersecurity · Ethical hacking · Linux · Web engineering</text>
+  <text x="62" y="213" fill="#b5cbd5" font-family="Segoe UI,Arial,sans-serif" font-size="21">AI · Productivity software · Web apps · Cybersecurity</text>
 </svg>
