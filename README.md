@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.svg" width="100%" alt="Zubair Zahidi — AI, productivity software, web apps, and cybersecurity." />
 </div>
 
-I'm **Zubair Zahidi**, a student developer building projects at **Zoderise**. I work on AI applications, productivity software, web experiences, interactive learning tools, and cybersecurity projects.
+I'm **Zubair Zahidi**, a student developer building projects and founder of **Zoderise**. I work on AI applications,training ai module, traning ai modules from scrach, productivity software, web experiences, interactive learning tools, and cybersecurity projects.
 
 I enjoy turning ideas into usable software: designing the interface, connecting the application logic, documenting the workflow, and making it easier for people to run. I'm growing my skills across software engineering, Linux, and ethical security testing.
 
